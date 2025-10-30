@@ -1,4 +1,4 @@
-# Her-Path — Women Empowerment Platform (MERN)
+# "Her-Path" - Women Empowerment Platform
 
 ## About
 Her-Path provides verified safety resources, government welfare schemes, and job opportunities for women.
